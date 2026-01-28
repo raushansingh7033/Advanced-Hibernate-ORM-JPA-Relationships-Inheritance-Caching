@@ -1,0 +1,15 @@
+com\training\entity\Course.class
+com\training\entity\AuditInfo.class
+com\training\entity\Category.class
+com\training\entity\Address.class
+com\training\entity\User.class
+com\training\entity\Payment.class
+com\training\constants\Role.class
+com\training\config\HibernateUtil.class
+com\training\entity\CourseSection.class
+com\training\entity\PremiumUser.class
+com\training\entity\UserProfile.class
+com\training\entity\FreeUser.class
+com\training\App.class
+com\training\entity\Lesson.class
+com\training\entity\TimeInfo.class

@@ -1,0 +1,15 @@
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\App.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\config\HibernateUtil.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\constants\Role.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\entity\Address.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\entity\AuditInfo.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\entity\Category.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\entity\Course.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\entity\CourseSection.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\entity\FreeUser.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\entity\Lesson.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\entity\Payment.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\entity\PremiumUser.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\entity\TimeInfo.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\entity\User.java
+D:\WE_SpringBoot@4\03_Associations\src\main\java\com\training\entity\UserProfile.java
