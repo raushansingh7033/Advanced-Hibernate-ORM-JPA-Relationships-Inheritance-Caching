@@ -1,14 +1,6 @@
 # 📘 Hibernate LMS Project – Complete README
 
 This repository contains a **Learning Management System (LMS)** implemented using **Hibernate ORM with JPA annotations**.
-The project is intentionally designed to cover **core to advanced Hibernate concepts** that are frequently asked in **interviews** and used in **real-world backend systems**.
-
-This README acts as:
-
-* 📚 **Full revision notes**
-* 🎯 **Interview explanation guide**
-* 🧠 **Concept reference with examples**
-
 ---
 
 ## 🔹 Technology Stack
@@ -348,7 +340,7 @@ select distinct c from Course c join fetch c.sections
 
 ---
 
-## 🔹 DATABASE & CONFIGURATION
+##  DATABASE & CONFIGURATION
 
 ### Programmatic Configuration
 
@@ -369,7 +361,7 @@ hibernate.hbm2ddl.auto=update
 
 ---
 
-## 🔹 AUDITING & TIME HANDLING
+##  AUDITING & TIME HANDLING
 
 ```java
 @Embeddable
@@ -386,7 +378,7 @@ private AuditInfo auditInfo;
 
 ---
 
-## 🔹 DESIGN & BEST PRACTICES
+##  DESIGN & BEST PRACTICES
 
 * Proper owning vs inverse side
 * Controlled cascade usage
@@ -397,10 +389,3 @@ private AuditInfo auditInfo;
 
 ---
 
-## 🔹 INTERVIEW ONE-LINER
-
-Developed a Hibernate-based LMS using advanced ORM features such as JOINED inheritance, complex entity relationships, caching with Ehcache, polymorphic queries, and optimized HQL.
-
----
-
-⭐ This README is **revision-ready, interview-ready, and production-concept ready**.
